@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554021115 source:c:\users\¹ֻֽסחש\documents\gu_wanqi\shu_lianxi\main.cpp
+	<iostream>
+	"GradeBook.h"
+
+1553938059 c:\users\¹ֻֽסחש\documents\gu_wanqi\shu_lianxi\gradebook.h
+	<string>
+
+1554021255 source:c:\users\¹ֻֽסחש\documents\gu_wanqi\shu_lianxi\gradebook.cpp
+	"GradeBook.h"
+	<iostream>
+	<iomanip>
+
