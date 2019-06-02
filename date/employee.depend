@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1559403696 source:c:\users\׀לצ־\desktop\employee\employee.cpp
+	<iostream>
+	"Employee.h"
+
+1559403400 c:\users\׀לצ־\desktop\employee\employee.h
+
+1559403696 source:c:\users\׀לצ־\desktop\employee\commissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"CommissionEmployee.h"
+
+1559404091 c:\users\׀לצ־\desktop\employee\commissionemployee.h
+	<string>
+	"Employee.h"
+
+1559403697 source:c:\users\׀לצ־\desktop\employee\salariedemployee.cpp
+	<iostream>
+	<stdexcept>
+	"SalariedEmployee.h"
+
+1559404171 c:\users\׀לצ־\desktop\employee\salariedemployee.h
+	<string>
+	"Employee.h"
+
+1559404611 source:c:\users\׀לצ־\desktop\employee\basepluscommissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"BasePlusCommissionEmployee.h"
+
+1559404810 c:\users\׀לצ־\desktop\employee\basepluscommissionemployee.h
+	<string>
+	"CommissionEmployee.h"
+
+1559404612 source:c:\users\¹ֻֽסחש\desktop\date\basepluscommissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"BasePlusCommissionEmployee.h"
+
+1559404812 c:\users\¹ֻֽסחש\desktop\date\basepluscommissionemployee.h
+	<string>
+	"CommissionEmployee.h"
+
+1559404092 c:\users\¹ֻֽסחש\desktop\date\commissionemployee.h
+	<string>
+	"Employee.h"
+
+1559403402 c:\users\¹ֻֽסחש\desktop\date\employee.h
+
+1559403698 source:c:\users\¹ֻֽסחש\desktop\date\commissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"CommissionEmployee.h"
+
+1559403698 source:c:\users\¹ֻֽסחש\desktop\date\employee.cpp
+	<iostream>
+	"Employee.h"
+
+1559405076 source:c:\users\¹ֻֽסחש\desktop\date\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"Employee.h"
+	"SalariedEmployee.h"
+	"CommissionEmployee.h"
+	"BasePlusCommissionEmployee.h"
+
+1559404172 c:\users\¹ֻֽסחש\desktop\date\salariedemployee.h
+	<string>
+	"Employee.h"
+
+1559403698 source:c:\users\¹ֻֽסחש\desktop\date\salariedemployee.cpp
+	<iostream>
+	<stdexcept>
+	"SalariedEmployee.h"
+
